@@ -1,0 +1,9 @@
+C:\Users\DeuDeuka\source\repos\AndroidSystemOS\bin\Debug\netcoreapp2.0\cosmos\AndroidSystemOS.deps.json
+C:\Users\DeuDeuka\source\repos\AndroidSystemOS\bin\Debug\netcoreapp2.0\cosmos\AndroidSystemOS.dll
+C:\Users\DeuDeuka\source\repos\AndroidSystemOS\bin\Debug\netcoreapp2.0\cosmos\AndroidSystemOS.pdb
+C:\Users\DeuDeuka\source\repos\AndroidSystemOS\obj\Debug\netcoreapp2.0\cosmos\AndroidSystemOS.csprojAssemblyReference.cache
+C:\Users\DeuDeuka\source\repos\AndroidSystemOS\obj\Debug\netcoreapp2.0\cosmos\AndroidSystemOS.AssemblyInfoInputs.cache
+C:\Users\DeuDeuka\source\repos\AndroidSystemOS\obj\Debug\netcoreapp2.0\cosmos\AndroidSystemOS.AssemblyInfo.cs
+C:\Users\DeuDeuka\source\repos\AndroidSystemOS\obj\Debug\netcoreapp2.0\cosmos\AndroidSystemOS.csproj.CoreCompileInputs.cache
+C:\Users\DeuDeuka\source\repos\AndroidSystemOS\obj\Debug\netcoreapp2.0\cosmos\AndroidSystemOS.dll
+C:\Users\DeuDeuka\source\repos\AndroidSystemOS\obj\Debug\netcoreapp2.0\cosmos\AndroidSystemOS.pdb
